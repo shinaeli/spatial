@@ -307,7 +307,7 @@ i {
   }
 
   .nav-links {
-    display: flex;
+    display: none;
     width: 100%;
   }
 
